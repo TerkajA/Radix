@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "Id": 1,
+      "Name": "Andrej Terkaj",
+      "Username": "ATerkaj",
+      "Email": "aterkaj@task.si"
+    },
+    {
+      "Id": 2,
+      "Name": "Info A Terkaj",
+      "Username": "info",
+      "Email": "infoj@task.si"
+    },
+    {
+      "Id": 3,
+      "Name": "Aida Terkaj",
+      "Username": "aida",
+      "Email": "aida.terkaj@task.si"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "prvi komentar za user 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "komentar dve za user 1",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Radix"
+  }
+}
