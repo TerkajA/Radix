@@ -1,22 +1,22 @@
 {
   "users": [
     {
-      "Id": 1,
-      "Name": "Andrej Terkaj",
-      "Username": "ATerkaj",
-      "Email": "aterkaj@task.si"
+      "id": 1,
+      "name": "Andrej Terkaj",
+      "username": "ATerkaj",
+      "email": "aterkaj@task.si"
     },
     {
-      "Id": 2,
-      "Name": "Info A Terkaj",
-      "Username": "info",
-      "Email": "infoj@task.si"
+      "id": 2,
+      "name": "Info A Terkaj",
+      "username": "info",
+      "email": "infoj@task.si"
     },
     {
-      "Id": 3,
-      "Name": "Aida Terkaj",
-      "Username": "aida",
-      "Email": "aida.terkaj@task.si"
+      "id": 3,
+      "name": "Aida Terkaj",
+      "username": "aida",
+      "email": "aida.terkaj@task.si"
     }
   ],
   "comments": [
